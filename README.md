@@ -19,8 +19,8 @@ To predict the restaurant pricing based on housing prices and other restaurant f
 important in predicting the restaurant pricing.
 
 ### Dataset:
-Yelp: https://www.yelp.com/dataset
-Zillow: https://www.zillow.com/research/data/
+* Yelp: https://www.yelp.com/dataset
+* Zillow: https://www.zillow.com/research/data/
 
 ### Analysis
 https://github.com/hehuiyin/Yelp-Prediction/blob/main/Yelp%20Prediction%20Project.ipynb
