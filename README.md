@@ -23,13 +23,13 @@ important in predicting the restaurant pricing.
 1. Yelp API: https://www.yelp.com/dataset
 
  * The geographical focus for our analysis is focued on the restaurants in the U.S. After filtering on only the US restaurants, we ended up with a total of 38,261 rows and 14 columns. We first performed data pre-processing on this dataset, including:
-  + convert the json format 
-  + dummy the categorical attributes
-  + pick the relevant categories
+    + convert the json format 
+    + dummy the categorical attributes
+    + pick the relevant categories
 
 2. Zillow API: https://www.zillow.com/research/data/
 
- *The data pre-processing on this dataset includes:
+ * The data pre-processing on this dataset includes:
   + create housing dollar signs: standardize the housing prices to make housing prices and restaurant dollars comparable by calculating the percentiles of housing prices for each state 
     + 1: 0 – 25% 
     + 2: 25% - 50% 
