@@ -30,11 +30,11 @@ important in predicting the restaurant pricing.
 2. Zillow API: https://www.zillow.com/research/data/
 
  * The data pre-processing on this dataset includes:
-  + create housing dollar signs: standardize the housing prices to make housing prices and restaurant dollars comparable by calculating the percentiles of housing prices for each state 
-    + 1: 0 – 25% 
-    + 2: 25% - 50% 
-    + 3: 50%-75%
-    + 4: 75% & above
+    + create housing dollar signs: standardize the housing prices to make housing prices and restaurant dollars comparable by calculating the percentiles of housing prices for each state 
+        + 1: 0 – 25% 
+        + 2: 25% - 50% 
+        + 3: 50%-75%
+        + 4: 75% & above
 
 3. Combined two dataset based on zipcode
 
